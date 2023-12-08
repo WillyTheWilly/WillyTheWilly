@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @WillyTheWilly
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java
 
 <!---
 WillyTheWilly/WillyTheWilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
