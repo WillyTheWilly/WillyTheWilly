@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WillyTheWilly
+- 👋 Hi, I’m @Will
 
 <!---
 WillyTheWilly/WillyTheWilly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
